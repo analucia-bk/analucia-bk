@@ -6,5 +6,5 @@
 
 [![Design]https://aleen42.github.io/badges/src/photoshop.svg)(https://aleen42.github.io/badges/src/premiere.svg)]
 [![Front-end (https://aleen42.github.io/badges/src/angular.svg)https://aleen42.github.io/badges/src/react.svg]
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-lucia-magalhaes/)](https://www.linkedin.com/in/ana-lucia-magalhaes/)
+(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-lucia-magalhaes/)](https://www.linkedin.com/in/ana-lucia-magalhaes/)
 
