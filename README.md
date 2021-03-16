@@ -1,6 +1,6 @@
 # Ana Lucia Magalhães 👩‍💻 
 ### About me
-### I'm a  frontend developer and UX Designer.
+### I'm a  UI and UX Designer.
 [![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-lucia-magalhaes/)](https://www.linkedin.com/in/ana-lucia-magalhaes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidade.analucia@gmail.com)](mailto:solidade.analucia@gmail.com)
 
