@@ -1,7 +1,7 @@
 # Ana Lucia Magalhães 👩‍💻 
 ### About me
 ### I'm a  software engineer
-[![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-lucia-magalhaes/)](https://www.linkedin.com/in/ana-lucia-magalhaes/)
+[![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-lucia-magalhaes/)](https://www.linkedin.com/in/analu-ribeiro-m/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solidade.analucia@gmail.com)](mailto:solidade.analucia@gmail.com)
 
 <!--
