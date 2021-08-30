@@ -1,4 +1,4 @@
-
+  ###Estudante de Computação, apaixonada por Python e dados
  <div>
   <a href="https://github.com/analucia-bk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analucia-bk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
