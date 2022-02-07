@@ -1,4 +1,4 @@
-  #### Estudante de Data Science, apaixonada por Python e dados.
+<h2> Engenheira de dados e desenvolvedora </h2>
  <div>
   <a href="https://github.com/analucia-bk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=analucia-bk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,6 +9,7 @@
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
