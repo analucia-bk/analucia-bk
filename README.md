@@ -1,4 +1,6 @@
-<h2> Engenheira de dados </h2>
+<h2> Sobre mim </h2>
+<p> Olá, eu sou a Ana. Tenho experiência com desenvolvimento de software utilizando JS e Salesforce. Atualmente sou Engenheira de Dados Cloud (Azure) na Blueshift Brasil e aluna do Bootcamp da Digital House em Ciência de Dados. Em fev/2022 ingressei no curso de Estatística da FMU para incrementar meus conhecimentos na área de dados. 
+<p>Aqui você encontrará meus primeiros projetos feitos durante o bootcamp da {reprograma} que foi por onde iniciei minha transição de carreira, a partir de setembro de 2019 e também repositórios com exercícios e projetos que estou fazendo nessa nova trajetória em dados </p>
  <div>
   <a href="https://github.com/analucia-bk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=analucia-bk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
