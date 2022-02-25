@@ -1,5 +1,5 @@
 <h2> Sobre mim </h2>
-<p> Olá, eu sou a Ana. Tenho experiência com desenvolvimento de software utilizando JS e Salesforce. Atualmente sou Engenheira de Dados Cloud (Azure) na Blueshift Brasil e aluna do Bootcamp da Digital House em Ciência de Dados. Em fev/2022 ingressei no curso de Estatística da FMU para incrementar meus conhecimentos na área de dados. 
+<p> Olá, eu sou a Ana. Tenho experiência com desenvolvimento de software utilizando JS e Salesforce, desenvolvimento mobile e UX. Atualmente sou Engenheira de Dados Cloud (Azure) na Blueshift Brasil e aluna do Bootcamp da Digital House em Ciência de Dados. 
 <p>Aqui você encontrará meus primeiros projetos feitos durante o bootcamp da {reprograma} que foi por onde iniciei minha transição de carreira, a partir de setembro de 2019 e também repositórios com exercícios e projetos que estou fazendo nessa nova trajetória em dados </p>
  <div>
   <a href="https://github.com/analucia-bk">
@@ -9,11 +9,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-</div>
-  
+ <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+   <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+
+
   ##
  
 <div> 
