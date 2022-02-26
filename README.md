@@ -17,7 +17,7 @@
    <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
+    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  </div>
 
  <div> 
