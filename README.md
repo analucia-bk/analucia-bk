@@ -1,5 +1,5 @@
 <h2> Sobre mim </h2>
-<p> Olá, eu sou a Ana. Tenho experiência com desenvolvimento de software utilizando JS e Salesforce, desenvolvimento mobile e UX. Atualmente sou Engenheira de Dados Cloud (Azure) na Blueshift Brasil e aluna do Bootcamp da Digital House em Ciência de Dados. 
+<p> Olá, eu sou a Ana. Tenho experiência com desenvolvimento de software utilizando JS e Salesforce, desenvolvimento mobile e UX.Tenho interesse por desenvolvimento web, engenharia de dados e machine learning.
 <p>Aqui você encontrará meus primeiros projetos feitos durante o bootcamp da {reprograma} que foi por onde iniciei minha transição de carreira, a partir de setembro de 2019 e também repositórios com exercícios e projetos que estou tenho feito na minha trajetória em TI </p>
  <div>
   <a href="https://github.com/analucia-bk">
@@ -17,6 +17,7 @@
    <img align="center" alt="Ana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+    <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
  </div>
 
  <div> 
