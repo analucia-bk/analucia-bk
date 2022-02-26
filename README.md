@@ -1,5 +1,5 @@
 <h2> Sobre mim </h2>
-<p> Olá, eu sou a Ana. Tenho experiência com desenvolvimento de software utilizando JS e Salesforce, desenvolvimento mobile e UX.Tenho interesse por desenvolvimento web, engenharia de dados e machine learning.
+<p> Olá, eu sou a Ana. Tenho experiência com desenvolvimento de software utilizando JS e Salesforce, desenvolvimento mobile e UX e atualmente sou engenheira de dados.
 <p>Aqui você encontrará meus primeiros projetos feitos durante o bootcamp da {reprograma} que foi por onde iniciei minha transição de carreira, a partir de setembro de 2019 e também repositórios com exercícios e projetos que estou tenho feito na minha trajetória em TI </p>
  <div>
   <a href="https://github.com/analucia-bk">
